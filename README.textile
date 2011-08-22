@@ -1,0 +1,3 @@
+h1. JohnnyT's blog
+
+Using "Octopress":http://octopress.org/
