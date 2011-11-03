@@ -17,7 +17,7 @@ This presentation will:
 * Show how to edit, inspect, test, debug and save client-side code live, all from within a web browser
 * Discuss how Amber can be easily incorporated into existing web applications - regardless of the back-end (Ruby/Rails, PHP, Seaside, etc) and how it can co-exist with existing client-side JavaScript
 
-When Avi Bryant created Clamato - which Amber is based on - he said "the main objective is to have a more pleasant environment in which to write the client-side of web applications." Amber brings this Smalltalk environment, not just the language, to client-side web development. Amber is a way to expose more people to the joy of development in a Smalltalk environment without the commitment of changing existing back-end technologies.
+When Avi Bryant created Clamato - on which Amber is based - he said "the main objective is to have a more pleasant environment in which to write the client-side of web applications." Amber brings this Smalltalk environment, not just the language, to client-side web development. Amber is a way to expose more people to the joy of development in a Smalltalk environment without the commitment of changing existing back-end technologies.
 
 * [http://amber-lang.net](http://amber-lang.net)
 * [https://github.com/NicolasPetton/amber](https://github.com/NicolasPetton/amber)
